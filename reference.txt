@@ -1,0 +1,5 @@
+//Basic Tic Tac Toe algorithm and how to make the grid was taken from this youtube tutorial:
+Toth, A (2019) Tic-Tac-Toe Multiplayer (Version 1.0) [Source code]. https://youtube.com/playlist?list=PL1P11yPQAo7pJT26yr1_cmfS1g_RX7b4d.
+
+//Setting up TCP connection between server and client was taken from this tutorial:
+Tech With Tim (2020) Python Socket Programming Tutorial [Source code]. https://www.techwithtim.net/tutorials/socket-programming/
